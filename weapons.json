@@ -1,0 +1,99 @@
+{
+  "rarities": {
+    "Common": {
+      "color": "#A0A0A0",
+      "description": "Common weapon",
+      "dropWeight": 40
+    },
+    "Uncommon": {
+      "color": "#45C96A",
+      "description": "Uncommon weapon",
+      "dropWeight": 0
+    },
+    "Rare": {
+      "color": "#398BFF",
+      "description": "Rare weapon",
+      "dropWeight": 30
+    },
+    "Epic": {
+      "color": "#AB62FF",
+      "description": "Epic weapon",
+      "dropWeight": 20
+    },
+    "Legendary": {
+      "color": "#FFB52E",
+      "description": "Legendary weapon",
+      "dropWeight": 10
+    }
+  },
+  "weapons": [
+    {
+      "name": "Pea Shooter",
+      "gameDescription": "Baby's First Gun",
+      "fanDescription": "A gun which shoots incredibly low damage peas",
+      "type": "Semi-automatic",
+      "maxAmmo": 1000,
+      "clipSize": 6,
+      "quality": "D",
+      "damage": "4",
+      "fireRate": 0.15,
+      "shotSpeed": 20,
+      "range": 20,
+      "knockback": 3,
+      "spread": 10,
+      "rarity": "Common",
+      "weight": 40
+    },
+    {
+      "name": "Blooper",
+      "gameDescription": "Close Your Bloop",
+      "fanDescription": "A shotgun that fires a cluster of bullets",
+      "type": "Semi-automatic",
+      "maxAmmo": 150,
+      "clipSize": 5,
+      "quality": "B",
+      "damage": "7 x 6 (42 total)",
+      "fireRate": 0.4,
+      "shotSpeed": 23,
+      "range": 60,
+      "knockback": 30,
+      "spread": 0,
+      "rarity": "Rare",
+      "weight": 30
+    },
+    {
+      "name": "Deck4rd",
+      "gameDescription": "Unicorn Of Handguns",
+      "fanDescription": "Fires massive powerful bullets that will explode upon impact",
+      "type": "Semi-automatic",
+      "maxAmmo": 60,
+      "clipSize": 2,
+      "quality": "A",
+      "damage": "5 (bullets), 35 (explosion)",
+      "fireRate": 0.2,
+      "shotSpeed": 20,
+      "range": 1000,
+      "knockback": 22,
+      "spread": 10,
+      "rarity": "Epic",
+      "weight": 20
+    },
+    {
+      "name": "Unicorn Horn",
+      "gameDescription": "Fires Friendship",
+      "fanDescription": "Fires a rainbow beam that will bend towards enemies",
+      "type": "Beam",
+      "maxAmmo": "Infinite",
+      "clipSize": "Infinite",
+      "quality": "A",
+      "damage": "30 per second",
+      "fireRate": 0.1,
+      "shotSpeed": 30,
+      "range": 30,
+      "knockback": 45,
+      "spread": 0,
+      "rarity": "Legendary",
+      "weight": 10
+    }
+  ]
+}

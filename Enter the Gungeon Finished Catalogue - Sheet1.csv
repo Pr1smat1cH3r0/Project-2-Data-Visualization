@@ -1,0 +1,243 @@
+Name,ID,Game Description,Fan Description,Type,Max Ammo,Clip Size,Quality,Damage,Fire Rate,Shot Speed,Range,Knockback,Spread
+Rusty Sidearm,99,"""Still Works. Mostly.""",The Hunter's starting gun,Semi-automatic,Infinite,6,n/a,6,0.2,16,16,10,7
+Marine Sidearm,86,"""Always With You""",The Marine's starting gun,Semi-automatic,Infinite,10,n/a,5,0.25,25,18,12,5
+Rogue Special,89,"""Underhanded And Efficient""",The Pilot's starting gun.,Semi-automatic,Infinite,8,n/a,5,0.25,22,13,6,10
+Budget Revolver,80,"""Affordable Arms""",The Convict's starting gun.,Semi-automatic,Infinite,5,n/a,6,0.15,23,18,10,10
+Dart Gun,24,"""Sticky""",The Cultist's starting gun ,Semi-automatic,Infinite,6,n/a,6,0.2,20,25,2,5
+Robot's Right Hand,88,"""Built To Kill""",The Robot's starting weapon,Semi-automatic,Infinite,20,n/a,5,0.2,25,20,10,7
+Blasphemy,417,"""To The Point""",The Bullet's starting weapon,Semi-automatic,Infinite,n/a,B,14,0.2,26,Infinite,10,10
+Pea Shooter,197,"""Baby's First Gun""",A gun which shoots incredibly low damage peas,Semi-automatic,1000,6,D,4,0.15,20,20,3,10
+38 Special,56,"""For The Inquisitive""",A standard semi-automatic gun which fires bullets.,Semi-automatic,350,6,D,5,0.07,23,35,10,5
+Derringer,378,"""One Last Trick""",A small standard semi-automatic pistol based on the real life gun of the same name,Semi-automatic,200,2,D,10,0.07,23,60,30,6
+Unfinished Gun,83,"""Still Warm""","Shoots piercing bullets, which will travel through enemies",Semi-automatic,350,15,D,6,0.2,15,35,6,15
+Makarov,79,"""The People's Gun""","A basic pistol, which is stronger than some starting weapons.",Semi-automatic,350,7,D,5,0.15,23,60,10,4
+M1911,30,"""Classic""",Standard pistol that is stronger than most starting weapons. A reference to the real Colt M1911 pistol.,Semi-automatic,200,7,C,8,0.15,23,60,30,6
+Magnum,38,"""5 Shots Or 6?""","A powerful pistol, based off the real gun of the same name; Upon reloading, the Magnum will randomly switch between having a clip size of either 5 or 6.",Semi-automatic,140,6,B,13,0.15,23,60,30,7
+Colt 1851,62,"""You Dig""",Fires two shots at the same time in a burst.,Burst,350,12,C,6,0.21,25,Infinite,10,8
+SAA,50,"""Exhilarating Reload Time""",A gun which fires bouncing bullets; Has a faster reloading speed.,Semi-automatic,200,6,B,8 (direct) 12 (bounce),0.12,25,1000,14,0
+Cold 45,223,"""Shatterday Night Special""",Bullets fired by Cold 45 have a chance to freeze enemies.,Semi-automatic,350,12,B,6,0.15,28,35,10,6
+Polaris,97,"""Storied""",A gun that can evolve into 3 different stages.,Semi-automatic,400,12,B,"5 (level 1), 12 (level 2), 20 (level 3)",0.07,40,1000,10,5
+Jolter,47,""".95 Caliber""",Fires large rectangular bullets which do a good amount of damage; This is a reference to a Warhammer 40k weapon.,Semi-automatic,200,12,B,13,0.25,25,25,50,10
+Dungeon Eagle,23,"""Caw!""","A strong pistol which can be charged up to release a powerful high-damaging shot; This is a reference to the real gun, the Desert Eagle.",Charged,200,9,C,"10 (uncharged), 20 (charged)",0.2,25,60,10,10
+Grey Mauser,182,"""Silent and Deadly""",A gun which makes you invisible every time you reload an empty clip.,Semi-automatic,100,15,B,8,0.1,23,60,30,6
+Shellegun,464,"""Circle Of Death""",Reloading this gun will switch between two modes of firing either a pistol or a continous beam.,Semi-automatic,300,"20 (beam), 12 (pistol)",B,8,0.1,25,25,10,5
+Dueling Pistol,9,"""Ricochet""",Fires large bullets that bounce twice.,Semi-automatic,120,1,B,7 x 3 bullets (21 total),0.07,16,16,10,4
+AU Gun,53,"""Some Assembly Required""","Fires a single powerful bullet, which will kill a lot of enemies in a single hit.",Semi-automatic,22,1,S,100,0.2,25,Infinite,10,0
+Big Iron,157,"""Heavy""","Fires three bullets at a time, which spread out in a random fashion.",Semi-automatic,150,6,B,21 (7x3),0.33,16,16,10,4
+Composite Gun,337,"""Undetectable""",This gun fires a charged shot which consumes two ammo and will pierce through enemies.,Charged,50,2,S,"40 (uncharged), 100 (charged)",0.2,25,1000,10,0
+Flare Gun,275,"""Over Here""",Fires a bullet that has a chance to set enemies on fire; Ignited enemies take damage over time for a short period.,Semi-automatic,150,1,D,13,0.1,23,1000,35,6
+Smiley's Revolver,35,"""All Smiles""",A semi-automatic gun which gains a fire rate increase for a while after dodge rolling.,Semi-automatic,250,6,B,9,0.1 (manual) 0.25 (automatic),23,60,30,0
+Shades's Revolver,22,"""Someone Loses An Eye""","While held, this gun will increase the player's coolness stat by +3.",Semi-automatic,150,6,C,15,0.3,23,60,30,6
+Regular Shotgun,51,"""Cocked and Loaded""","A standard shotgun, which releases a spread of bullets each time it is fired.",Semi-automatic,150,8,D,4 x 6 (24 total),0.6,23,60,30,10
+Old Goldie,93,"""For The Discerning""",A double-barrel shotgun more powerful than the regular shotgun.,Semi-automatic,150,4,A,3.5 x 10 (35 total),0.5,23,10,30,5
+Sawed-Off,202,"""No Butts About It""",A shotgun with a low bullet range and wider spread of bullets; One of the Convict's starting weapons.,Semi-automatic,150,6,D,4 x 4 (16 total),0.5,23,60,30,8
+Winchester,1,"""Better Than A Box Of Roses""","A modified shotgun which has the same damage as the regular shotgun, but has a more accurate spread.",Semi-automatic,100,8,C,4 x 6 (24 total),0.6,23,60,30,8
+Rattler,406,"""Snakes On A Gun""",Simultaneously fires a shotgun blast and a beam that has a chance to poison enemies,Semi-automatic,200,8,B,3 x 7 (21 total),,unknown,,,
+Elephant Gun,82,"""Shoots Elephants""",Fires a cone spread of bullets and has strong knockback dealt to any enemies hit by the bullets,Semi-automatic,120,2,C,5.5 x 6 (33 total),,unknown,,,
+Tangler,175,"""Get Wrecktangled""",Fires a shotgun blast of rectangular bullets that bounce off walls. Enemies hit will be folded into a rectangle,Semi-automatic,,,C,6 x 6 (36 total),,unknown,,,
+Void Shotgun,55,"""CQC""",A shotgun with low range that fires a cluster of purple bullets,Semi-automatic,120,4,B,5 x 6 (30 total),0.4,23,60,30,0
+Mass Shotgun,365,"""My Favorite Gun""","The Mass Shotgun fires a single large bullet that splits into a series of smaller bullets, which all continue in a straight line",Automatic,200,1,B,"30 (large bullet), 6 x 12 (72 total for all smaller bullets)",0.4,23,60,30,0
+Shotgun Full of Hate,143,"""Hate Is Power!""","A shotgun which fires a cluster of poison bullets, which each leave a pool of poison on the ground",Semi-automatic,150,8,A,"6 x 4 (24 total for bullets), 5 (skull), 3 (nail)",0.5,23,60,30,14
+Shotgun Full of Love,379,"""Kill With Kindness""","A shotgun that fires a cluster of bullets, which each have a chance to charm any hit enemies",Semi-automatic,120,8,A,5 x 6 (30 total),0.5,23,60,30,14
+Shotgrub,347,"""No Worries!""","A shotgun that fires 5 bullets, each which leave a pool of poison on the ground",Semi-automatic,250,8,C,5 x 5 (25 total),0.4,23,60,30,0
+Gilded Hydra,231,"""Heads Up!""","A semi-automatic gun which fires large bouncy, piercing bullets",Semi-automatic,50,>= 1,S,7.5 x 8 (60 total),0.4,23,60,30,0
+Blunderbuss,122,"""Shoots Anything""","A gun which must be charged, and upon release will fire a short-range cluster of bullets",Charged,100,4,D,3 x 10 (30 total),0.5,26,1000,25,20
+Pulse Cannon,123,"""Time Of Death...""",A shotgun which fires clusters of 5 bullets per use,Semi-automatic,120,8,C,4 x 6 (24 total),,unknown,,,
+Siren,404,"""Mershotgun""",A shotgun which fires a cluster of water bullets.,Semi-automatic,200,6,C,6 x 3 (18 total),0.4,23,60,30,0
+Zilla Shotgun,329,"""Quadruple the fun!""",A shotgun which fires a cluster of bullets each time it is used,Charged,120,6,A,"4 x 8 (32 total when uncharged), 6 x 7 (42 total when charged)",0.5,26,1000,26,20
+Ice Breaker,225,"""Never Let Go""",A gun with a clip size of 3.,Semi-automatic,100,3,B,"2 x 5 (10 total), 35 (explosive)",0.4,23,60,30,0
+The Membrane,151,"""Green Or Yellow?""",A shotgun which fires a cluster of bouncy bullets,Semi-automatic,120,6,C,"24 (before split), 36 (after split)",,unknown,,,
+Huntsman,346,"""Axes Of Evil""",A gun which fires clusters of bullets like a shotgun,Semi-automatic,150,6,C,3.5 x 6 (21 total),,unknown,,,
+Blooper,18,"""Close Your Bloop""",A shotgun that fires a cluster of bullets,Semi-automatic,150,5,B,7 x 6 (42 total),0.4,23,60,30,0
+Bow,8,"""Hold Fire To Charge""",Fires arrows,Charged,100,1,C,"7.5 (uncharged), 30 (charged)",1,26,1000,25,0
+Charmed Bow,200,"""<3-----<<<""",Fires arrows,Charged,100,1,B,"7.5 (uncharged), 14 (charged)",,unknown,,,
+Crossbow,12,"""The Original""","A crossbow which fires bolts that deal a lot of damage, however each bolt needs to be loaded individually",Semi-automatic,100,1,D,22,0.5,26,1000,25,7
+Sticky Crossbow,4,"""Reload, Explode""",A crossbow which fires sticky bolts.,Semi-automatic,100,5,C,"5 (bolts), 15 (explosion)",,unknown,,,
+Shotbow,126,"""A Teleporter Accident""",A shotgun-crossbow combo that fires a cluster of piercing bolts,Semi-automatic,80,3,B,6 x 6 (36 total),1,26,1000,25,5
+Triple Crossbow,381,"""3 > 1""","A crossbow that will either shoot 3 bolts at once, or a single bolt which has a chance to slow enemies",Semi-automatic,100,3,C,"7 (single bolt), 7 x 3 (21 total for tripe bolts)",,unknown,,,
+Crescent Crossbow,52,"""Moon Shot""","A crossbow which fires star projectiles, which will split into smaller bouncy stars",Charged,150,12,A,"22 (large), 8 (medium), 3 (small)",0.2,32,1000,20,0
+Gunbow,210,"""Failed Experiment""",A gun which can be charged up to fire bouncy bullets that have a high shot speed,Charged,70,1,A,35,0.001,26,1000,25,0
+Klobbe,31,"""Everyone's Favorite""","An automatic gun which rapidly fires weak, inaccurate bullets",Automatic,,,D,1.2,0.04,14,1000,1,20
+Machine Pistol,43,"""Rapid Fire""",An automatic gun which rapidly fires bullets,Automatic,600,30,D,3.2,0.07,23,16,6,10
+Thompson Sub-Machinegun,2,"""Myeah, See!""",An automatic sub-machinegun,Automatic,350,30,C,5,,unknown,,,
+AK-47,,"""Accept No Substitutes""",A automatic assault rifle. It's good.,Automatic,500,30,B,5.5,0.11,23,1000,9,4
+AKEY-47,95,"""Unlocked And Loaded!""",A automatic gun which fires keys,Automatic,500,30,S,5.5,0.11,23,1000,9,4
+M16,96,"""Underslung""","A machine gun, which can either fire a burst of 3 bullets or grenades",Burst,,,A,"5.5 (bullets), 10 (grenade impact), 25 (explosion)",0.1,23,1000,11,7
+Zorgun,6,"""Don't Push The Red Button""",A gun which rapidly fires homing bullets,Automatic,350,20,A,5.5,0.1,23,1000,9,5
+VertebraeK-47,29,"""Nervous Yet?""",A gun which fires piercing and homing bullets,Automatic,300,30,B,4,0.1,18,1000,6,5
+MAC10,94,"""$#!^@ Never End""",A machine gun that fires a burst of four bullets at a time,Burst,600,30,C,3.5,0.07,23,1000,3,10
+Heck Blaster,17,"""Whoa, Nelly""","A gun that fires bullets which travel instantly towards their target, appearing to be invisible",Automatic,999,999,B,2.5,0.05,40,14,3,8
+Patriot,98,"""Gun Eater""",An automatic gun that fires piercing bullets,Automatic,350,50,S,7,0.3,30,1000,15,1
+Vulcan Cannon,84,"""Boundless Slaughter""",A gun which rapidly fires inaccurate bullets,Automatic,900,900,S,5,0.05,35,1000,15,12
+Plague Pistol,207,"""Chemical Warfare""",Fires bullets that leave poison goop on the ground and have a chance to poison enemies,Semi-automatic,200,12,D,4,0.15,20,25,13,5
+Gungine,401,"""12 Cylinder""","An automatic gun which when reloaded while standing on a liquid (water, oil etc.) clears it up and refills the ammo of your current clip. This effect doesn't work while flying.",Automatic,800,100,S,5,0.05,35,1000,15,6
+Dragunfire,146,"""Roar""",An automatic gun that fires piercing bullets which have a chance to burn enemies,Automatic,600,30,A,6.5,0.05,25,1000,27,7
+Sniper Rifle,49,"""Scope Creep""","A sniper rifle that fires single high-power bullets, which can pierce through enemies",Semi-automatic,80,10,C,26,,unknown,,,
+A.W.P.,5,"""Noob Cannon""",A high powered sniper rifle that fires piercing bullets which deal a lot of damage,Semi-automatic,60,10,A,40,1.2,100,1000,25,5
+M1,25,"""Bolt Action""",A semi-automatic gun which fires piercing bullets,Semi-automatic,100,6,C,20,0.8,200,60,25,2
+Winchester Rifle,181,"""Guns and Deviltry.""",A semi-automatic rifle that fires powerful bullets at a low rate of fire,Semi-automatic,130,12,D,15,0.72,32,1000,9,5
+Corsair,327,"""Plot A Course""","A gun which must be charged to fire bullets which start out slow, but increase in speed over time and bounce around the room",Charged,200,1,C,10,,26,1000,25,5
+Railgun,358,"""Calibrating""","A single clip gun that is charged up to fire one highly powerful bouncy, piercing bullet with high shot speed",Charged,40,1,S,50,,unknown,,,
+Prototype Railgun,370,"""DANGER: HIGH VOLTAGE""",A gun which fires piercing shots with a high shot speed (charge to fire),Charged,40,1,A,75,,800,,0,0
+Void Marshal,32,"""Acquired Under The Table""",A highly accurate semi-automatic gun that fires fast-moving lasers,Semi-automatic,250,15,B,9,0.1,35,35,10,7
+Deck4rd,81,"""Unicorn Of Handguns""",Fires massive powerful bullets that will explode upon impact,Semi-automatic,60,2,A,"5 (bullets), 35 (explosion)",0.2,20,1000,22,10
+The Judge,184,"""Hot Shot""","The final shot of each clip has a chance to apply a random status effect to enemies (poison, freeze or burn)",Semi-automatic,400,9,B,7.5,0.15,30,1000,9,7
+Alien Sidearm,57,"""Shield Breaker""",A gun which can be charged up to fire larger shots that deal more damage,Charged,350,10,D,"5 (uncharged), 25 (charged)",,unknown,,,
+RUBE-ADYNE Prototype,142,"""It Never Quits""",A gun which fires lasers that will bounce 4 times,Semi-automatic,200,6,B,7,0.12,40,60,10,5
+RUBE-ADYNE MK.II,128,"""Polished Product""",A laser pistol that fires bouncy lasers,Semi-automatic,300,15,A,10,0.1,40,35,10,7
+Mine Cutter,394,"""Safety First""","Upon reloading, this gun will alternate between firing three small piercing lasers and single larger lasers",Semi-automatic,250,12,B,"10 (3 laser mode), 8 (single laser mode)",0.1,23,60,30,7
+Void Core Assault Rifle,58,"""Rapid Fire""",An assault rifle that fires bursts of three lasers at a time,Burst,300,30,B,6.5,0.35,23,20,15,3
+Flash Ray,383,"""Ah Ahhh!""",A ray gun that fires piercing lasers,Semi-automatic,350,8,D,7.5,0.2,600,1000,4,10
+Wind Up Gun,334,"""Charge It""",A semi-automatic gun which fires purple lasers,Automatic,600,20,D,5 (2.5 for second half of clip),0.13,30,35,10,8
+H4mmer,91,"""Many Bullets""",A semi-automatic gun that fires bullets rapidly,Automatic,450,30,B,"3.8 (bullets), 20 (hammer)",0.05,23,1000,6,7
+Snakemaker,360,"""SSSSSSSSSSS""",An automatic gun which fires bullets that have a chance to transmogrify enemies,Semi-automatic,,,A,12,0.25,50,1000,10,0
+Hegemony Carbine,229,"""All The Same""",Shoots rapid fire white bolts of energy,Automatic,600,25,C,3.5,0.13,?,?,?,?
+Screecher,3,"""Cover Your Ears!""","A gun that fires piercing sound waves, which increase in size the further they travel across the room",Automatic,1000,1000,C,1.5,,unknown,,,
+Laser Lotus,156,"""Level 5""",Laser Lotus is a gun that fires piercing lasers,Semi-automatic,150,10,A,16,0.2,45,1000,26,5
+Hegemony Rifle,59,"""So Precise""",A fairly decent damaging semi-automatic gun which is inaccurate,Semi-automatic,,,B,10,0.25,35,15,15,13
+Fightsabre,345,"""Heresy""",An automatic gun that is swung while reloading. Any bullets nearby while reloading will be reflected away,Automatic,500,25,S,6,0.15,23,50,10,8
+Helix,230,"""Splice 'n' Dice""",Fires two bullets in a helix pattern,Semi-automatic,250,12,C,7.5 x 2 (15 total),0.07,35,35,10,7
+Laser Rifle,54,"""Blast Off!""",A laser rifle that fires a burst of 3 shots,Burst,500,24,C,5,0.5,200,60,16,5
+Crestfaller,178,"""Cold Reality""",A semi-automatic gun that fires bullets which have a chance to slow and freeze enemies,Semi-automatic,250,8,C,10,,unknown,,,
+Thunderclap,13,"""Lightning In A Bullet""",A semi-automatic gun that fires small balls of lightning,Semi-automatic,300,15,A,8,0.1,20,1000,10,5
+Charge Shot,328,"""Hold To Fire""","Fires a large laser that fires piercing, bouncy bullets",Charged,75,5,B,30,0.01,26,1000,25,5
+Dark Marker,274,"""Big Bang""","This gun can be charged to fire the entire clip at once, creating two projectiles which curve and meet at the same point",Semi-automatic,250,12,S,"13.5 (bullets), 80 (explosion)",0.2,32,1000,20,0
+Particulator,228,"""Strange Matter""","Fires seeking bullets in a small spread, which will travel towards nearby enemies",Semi-automatic,60,1,S,"30 (large), 7 (small)",0.7,10,10,8,0
+The Emperor,330,"""Electric Terror""",A gun that fires a burst of four bullets which are all connected to each other by electricity,Burst,,30,A,5.6,0.3,20,50,10,7
+RPG,39,"""Leveled Up""","Fires rocket-propelled grenades, which explode on impact",Semi-automatic,40,1,B,"20 (impact), 35 (explosion)",1,40,90,10,5
+Grenade Launcher,19,"""Fwomp!""",Shoots a grenade that bounces off of surfaces and explodes on impact with enemies,Semi-automatic,60,1,B,"10 (impact), 25 (explosion)",1.2,20,20,20,4
+Stinger,92,"""Drone Warfare""","A semi-automatic launcher that fires homing rockets, which release bees when exploded",Semi-automatic,50,1,B,"10 (impact), 15 (explosion)",1,20,60,10,1
+Com4nd0,129,"""You're Fired""",Fires homing rockets,Semi-automatic,40,4,B,"20 (impact), 25 (explosion)",0.6,14,90,10,5
+RC Rocket,372,"""Avoid User Error""",Fires rockets that are controlled by your mouse cursor,Semi-automatic,50,1,A,100,0.6,10,200,10,1
+Yari Launcher,16,"""Hell. Yes.""",A gun that rapidly fires homing rockets,Automatic,80,,S,"10 (impact), 15 (explosion)",0.04,10,90,30,45
+Lil' Bomber,332,"""ReFuse To Lose!""","A gun which must be charged to fire a bomb, which explodes on contact with enemies",Charged,60,3,D,"15 (impact), 25 (explosion)",1,23,1000,35,6
+Grasschopper,180,"""Noisy""",Fires a single powerful blast that will knock the player back in recoil,Semi-automatic,,,A,"20 (impact), 20 (explosion)",0.07,36,18,22,5
+Bundle of Wands,61,"""Dark Arts""",Fires a spread of magic bursts that have a chance to transmogrify enemies upon each successful hit,Semi-automatic,,,C,7 x 3 (21 total),,unknown,,,
+Staff of Firepower,395,"""Missing Link""",A gun that will alternate between two modes when reloading: A quick firing pistol and a beam that can set enemies on fire,Semi-automatic,200,"12 (staff), 6 (gun)",A,"7 (pistol), 12 (beam)",0.15,25,1000,12,7
+Witch Pistol,145,"""Spells Your Doom""",Fires bullets that have a chance to transmogrify enemies upon each successful hit,Semi-automatic,350,6,C,6,,unknown,,,
+Hexagun,385,"""Light Fantastic""",A semiautomatic rifle that fires piercing bullets which have a chance to transmogrify enemies on each successful hit,Semi-automatic,75,1,B,35,0.001,200,1000,25,0
+Phoenix,384,"""Reborn In Flame""",Firing a bullet also creates a cone of fire in front of the player that sets enemies on fire,Semi-automatic,350,12,D,4,0.15,25,25,13,3
+Magic Lamp,,"""One Wish, Three Times""",Fires magic bullets which add a counter to each enemy it hits,Semi-automatic,100,,B,8,0.5,12,1000,10,5
+Gunslinger's Ashes,198,"""Spirit, Willing""",Each shot releases an armed spirit that attacks enemies,Semi-automatic,80,6,C,5 x 3 (15 total),,unknown,,,
+Luxin Cannon,199,"""Omnichrome""",Rapidly fires laser bullets,Automatic,600,45,C,4.5,,unknown,,,
+Gunther,338,"""Jealous Weapon""",Gunther is a gun which evolves slowly as each room is cleared,Semi-automatic,Infinite,,S,"6, 9, 12 (increases with each stage)",0.1,16,50,20,10
+Unicorn Horn,100,"""Fires Friendship""",Fires a rainbow beam that will bend towards enemies,Beam,,,A,30 per second,0.1,30,30,45,0
+Cobalt Hammer,390,"""Break Stuff""",A gun which fires blue lasers,Charged,60,6,A,"36 (charged), 26 (uncharged)",0.3,100,1000,80,0
+Frost Giant,387,"""Icy Grasp""",Firing a bullet also creates a cone of ice in front of the player that has a chance to freeze enemies inside it,Semi-automatic,130,12,B,12,0.001,20,30,10,12
+Bullet Bore,362,"""Mind Muncher""","Fires homing drills, that seek out enemies and stun them for a few seconds",Semi-automatic,75,1,A,"10 (bullet), 25 (explosion)",1,20,1000,8,5
+Cat Claw,357,"""Kneadle Your Foes!""","Fires homing darts which deal no damage on contact, but will explode after a few seconds of being stuck to an enemy",Automatic,,,A,"2 (dart), 10 (explosion)",0.15,23,1000,2,5
+Megahand,36,"""-P-""","A charged gun which can be rapidly fired with low damage bullets, or fully charged to deal a powerful shot",Charged,200,18,B,"6 (uncharged), 45 (charged)",0.07,20,1000,8,0
+Demon Head,60,"""Wanged""",Fires a continuous beam that has a chance to afflict Burn,Beam,500,500,B,31 per second,0.1,100,40,30,5
+Heroine,41,"""Charge Beam Active""","A charged gun which can be fired quickly with low damage bullets, or fully charged to deal a single powerful shot",Charged,200,6,B,"5 (level 1 charge), 10 (level 2 charge), 70 (level 3 charge)",0.07,25,1000,10,0
+Mutation,333,"""Didn't Need Two Anyway""",Fires a continuous beam which has heavy recoil for the player,Beam,500,500,B,45 per second,0.1,40,20,50,5
+Flame Hand,125,"""2D6 + Int Mod""",Fires fireballs that pierce enemies and have a chance to set enemies on fire,Semi-automatic,200,100,B,Varies,0.1,23,1000,35,0
+Machine Fist,186,"""Avalanche Of Bullets""",A gun that alternates between two modes of firing upon reloading,Automatic,300,70,A,"4 (gattling gun), 20 (rocket impact), 30 (explosion)",0.07,27,1000,15,6
+Snowballer,402,"""May Contain Rocks""",Fires snowballs that have a chance to freeze enemies,Automatic,400,20,D,3.5,0.15,28,35,10,10
+Super Meat Gun,479,"""Very Fast""",Fires piercing bouncy saw blades,Semi-automatic,200,12,A,6,0.1,25,1000,10,5
+Anvillain,393,"""Practical And Safe""","A charged gun which fires large, slow moving piercing anvils, that will knockback and stun enemies for a few seconds",Charged,60,3,C,10,0.1,20,1000,8,5
+Fossilized Gun,196,"""Proof That Guns Once Existed""","While fired, this gun will release a stream of oil on the floor",Beam,500,500,D,15 per second,0.1,15,20,40,0
+Gamma Ray,87,"""Mean Green""","Fires a continuous green laser, which has a chance to poison enemies",Beam,800,800,C,15 per second,0.1,unknown,50,10,0
+Freeze Ray,40,"""Ice To Meet You""","Fires a continuous blue laser, which has a chance to freeze enemies",Beam,,,A,20 per second,0.1,60,30,10,0
+Science Cannon,331,"""Charged Particles""",A gun which fires a large laser (requires a small time to spin-up before it will fire),Beam,500,500,B,26 per second,0.1,90,500,35,0
+Disintegrator,121,"""Return To Dust""",A gun which fires a large laser (requires a long time to spin-up before it will fire),Beam,500,500,S,70 per second,0.1,120,50,0,0
+Proton Backpack,179,"""Crossing Streams""","A gun which fires a homing laser, which will seek out and target nearby enemies",Beam,500,500,B,50 per second,0.1,14,90,30,0
+Mega Douser,10,"""Contents Under Pressure""","A gun which fires a continuous stream of water, pushing enemies back slightly",Beam,900,900,D,15 per second,0.1,20,20,40,0
+Plunger,208,"""Take Your Best Shot!""","Fires a continous stream of poison liquid, which has a chance to poison enemies",Beam,500,500,C,5 per second,0.1,20,20,40,0
+Raiden Coil,107,"""Shoot Em' Up""",A gun which fires a continuous laser which seeks out and damages all enemies currently on screen,Beam,500,500,A,15 per second,0.1,unknown,30,10,5
+Moonscraper,20,"""Beeeeoooowwww!""",Fires a continuous laser which will bounce off objects and walls and reflect back across the room,Beam,500,500,C,26 per second,0.1,unknown,50,20,5
+Barrel,7,"""Nothin' Easier""","A gun that fires fish, which have a chance to stun enemies for a brief period of time",Semi-automatic,300,9,C,8,0.2,20,1000,13,7
+Trick Gun,363,"""Reload To Transform""",A gun which will switch between a handgun and a shotgun after each reload,Semi-automatic,200,6,C,"7 (handgun), 2 x 8 (16 total shotgun)",,unknown,,,
+Mailbox,28,"""Special Delivery""",A gun that fires mail at enemies,Semi-automatic,350,,D,5,0.2,22,1000,10,10
+Nail Gun,26,"""Pest Control""",A semi-automatic gun that fires a lot of low damage nails very quickly,Semi-automatic,500,,D,3,0.12,26,12,8,10
+Light Gun,27,"""Third-Party""",A gun that fires flashes of light,Semi-automatic,150,6,B,7,0.2,400,60,30,5
+Mahoguny,339,"""100% Organic""",A gun that fires damaging leaves and bouncy wooden bullets at the same time,Semi-automatic,350,10,C,"5 (bullet), 10 (explosion), 4 (leaves)",0.4,15,30,20,0
+The Scrambler,445,"""Bullet Or The Gun?""",A single clip gun that fires eggs,Semi-automatic,120,1,C,"6 (egg), 9 x 5 (homing bullets)",,unknown,,,
+Trashcannon,154,"""Take It Out!""","A gun that fires trash, sending poison in all directions",Semi-automatic,,1,C,20,0.2,20,1000,20,5
+Glacier,130,"""Refill Your Trays""",A gun that fires bouncy ice cubes that explode and freeze enemies,Automatic,120,12,A,"8 (ice cube), 6 (explosion)",0.5,18,35,8,5
+Origuni,477,"""Thousand Cuts""","A gun that fires piercing paper airplanes, which will shoot out and follow the player's mouse cursor",Semi-automatic,300,8,C,7.5,,unknown,,,
+The Kiln,152,"""Fires Pots""","A gun that fires pots, which upon contact with an enemy or object will break into three bouncy crystals",Semi-automatic,200,8,C,"8 (pots), 4 (crystals)",,unknown,,,
+Skull Spitter,45,"""Hard Headed""",Fires homing skulls,Semi-automatic,150,10,C,10,,unknown,,,
+Buzzkill,341,"""Sawed On!""",A semi-automatic gun that fires piercing bouncy sawblades,Semi-automatic,350,12,C,7,0.2,25,1000,10,5
+Tear Jerker,33,"""Q_Q""","A gun that fires tears, which leave a puddle of water on the ground",Semi-automatic,100,20,C,7,,unknown,,,
+Eye of the Beholster,90,"""What A Beauty!""",A gun that fires quick lasers,Semi-automatic,,,B,6,0.15,200,1000,4,4
+Molotov Launcher,292,"""Exactly What You Think""","A gun that fires molotov cocktails, which create a large area of fire on the ground where it lands",Semi-automatic,80,1,C,6,1.5,18,35,13,5
+Shock Rifle,153,"""Zap""",A gun that fires zaps of electricity,Semi-automatic,250,15,B,8,0.2,140,1000,20,5
+Bait Launcher,369,"""Meat Your Maker""","A gun that fires steaks, which cause a tiger to appear and attack nearby enemies",Charged,60,1,C,10,,unknown,,,
+Brick Breaker,376,"""Wrong Kind Of Mortar""",A gun that fires bouncy piercing green turtle shells,Semi-automatic,200,5,C,10,,unknown,,,
+Betrayer's Shield,380,"""Actually A Gun""","A gun which generates a protective shield upon reloading, that blocks enemy bullets",Automatic,350,12,B,7 (was 6 prior to A Farewell to Arms DLC),0.1,23,18,12,5
+Lower Case r,340,"""Alphabetical!""","A burst gun that fires 6 bullets at a time, which spell out the word 'bullet' in uppercase (B U L L E T)",Burst,900,36,D,2.222,0.07,25,1000,14,0
+Excaliber,377,"""Once And Future""","Fires a burst of three piercing sword projectiles. Reloading swings the sword, destroying nearby bullets and damaging enemies",Burst,280,32,B,7,0.15,26,1000,15,0
+Face Melter,149,"""Squiddley-squiddley-wheeyooo!""",Rapidly fires musical notes in all four directions around the player,Automatic,,,B,3,0.1,15,15,13,6
+Trident,444,"""Under The Sea""",Fires a piercing magic beam which damages enemies,Semi-automatic,,10,A,8,0.08,600,1000,4,0
+Abyssal Tentacle,474,"""Look Away""","A gun that fires a tentacle which homes in on enemies and grips them, dealing damage",Beam,500,500,A,22.5 per second,0.1,unknown,30,10,0
+Quad Laser,475,"""No One Can Defeat It""","A semi-automatic gun that fires a large, square bullet which moves very slowly",Semi-automatic,50,1,C,80,,unknown,,,
+Pitchfork,336,"""Get Forked!""",Rapidly fires fireballs which have a chance to Burn enemies,Semi-automatic,200,200,C,4,0.15,23,1000,35,5
+Gungeon Ant,176,"""What Army?""",Reloading alternates between firing spreads of bullets that leave behind oil and flaming bullets,Semi-automatic,100,6,C,"2 x 3 (6 total oil damage), 1.5 x 3 (4.5 total fire damage)",,26,1000,25,0
+Alien Engine,177,"""The Dangerzone""","A gun with a very short range, which propels the player backwards while firing",Automatic,1000,1000,B,10,0.02,30,3,10,0
+Microtransaction Gun,476,"""Pay To Win""","A gun which fires gems, books, and dolls of the Gungeoneers in exchange for one money per shot.",Semi-automatic,,Same as your number of held coins,A,"Various, see above",,unknown,,,
+Poxcannon,513,"""Lousy T-Shirt""",A gun which fires poisonous t-shirts,,,,C,15,,unknown,,,
+T-Shirt Cannon,150,"""Machine Gun Wash Only!""",Fires t-shirts that deal significant knockback to enemies,Semi-automatic,250,6,D,8,0.35,25,1000,60,5
+Banana,478,"""Planpain""","A gun which is charged up and releases an explosive banana, which splits into three more bouncy explosive bananas",Charged,55,7,C,"10 (impact), 30 (explosion)",,unknown,,,
+Bee Hive,14,"""Bzzzzzzz!""","Fires a continuous stream of damaging bees, which home in on enemies",Automatic,300,300,B,3,0.1,9,1000,2,90
+Silencer,335,"""300 Dead Count""",Fires pillows,Semi-automatic,200,8,C,10,0.6,23,60,30,5
+Camera,481,"""Say Cheese""","A gun which is charged up and when released, deals damage to all enemies in the current room",Charged,60,4,C,10,,unknown,,,
+Gunzheng,482,"""Hustle""",A gun that fires a continuous stream of thick arrows without the need to reload,Automatic,800,350,B,6,0.07,32,1000,8,35
+Sling,382,"""Outrageous!""",Sling allows you to charge up and fire a rock which deals a lot of damage.,Charged,80,1,D,25,0.1,23,1000,35,0
+Cactus,124,"""1000 Needles!""","An automatic gun that fires needles with a very high rate of fire, but low damage",Automatic,1000,1000,C,2.5,,unknown,,,
+Black Hole Gun,169,"""Won't You Come""",A charged gun which fires black holes,Charged,30,1,A,10,1,4,1000,9,0
+BSG,21,"""Big Shooty Gun""",Slowly charges up to fire a large high-damage projectile,Charged,25,1,S,50,4,25,1000,10,0
+Compressed Air Tank,359,"""You Know My Work""",A gun that fires sharks,Charged,50,1,A,50,0.6,35,1000,60,6
+Serious Cannon,37,"""Seriously MENTAL""","A cannon which fires large bouncy, piercing cannonballs which deal high damage",Charged,30,1,A,50,0.6,35,1000,60,6
+Makeshift Cannon,480,"""You Only Get One Shot""",A charged gun that fires a blast of various colored balls that deal very high damage,Charged,1,1,S,1213.3 (ish),0.5,35,1000,60,6
+Balloon Gun,520,"""Hot Air""",A gun that fires small tornados which home in on enemies,Semi-automatic,250,10,C,12,,,,,
+Bullet,503,"""Fires Guns""","A semi-automatic gun that fires rotating guns, which fire streams of bullets",Semi-automatic,250,6,C,"7 (Gun projectile), 4 (Bullets)",,,,,
+Casey,541,"""Batting .50""",A melee weapon that allows you to charge up and swing to damage nearby enemies and reflect enemy bullets,Charged,Infinite,1,D,100,,,,,
+Crown of Guns,551,"""All Hail""","An automatic gun that rapidly fires bullets in all directions, which will home slightly towards enemies",Automatic,3000,3000,C,5.5,"who cares, its heckin fast",,,,
+Devolver,484,"""Degenerates""",Bullets have a chance to devolve enemies into Arrowkin,Semi-automatic,100,6,C,6,,,,,
+Directional Pad,514,"""Input Output""",This gun fires bullets in four directions at once.,Automatic,120,30,B,"8 (Bullets), 45 (Fireball), Hook (10)",,,,,
+Dueling Laser,508,"""More Interesting This Way!""",A gun which fires a high-damage piercing laser.,Semi-automatic,Infinite,1,B,100,,,,,
+Hyper Light Blaster,504,"""Skill Honed Sharp""","A gun which starts with a very low max ammo count, however successfully hitting an enemy will restore 1 ammo.",,12,12,B,20,,,,,
+Mourning Star,515,"""Satellite Rain""","A gun which fires a laser sight, which will call down a high-damage orbital strike at the location of an enemy when targeting it for a short time.",Beam,800,800,S,,,,,,
+Rad Gun,566,"""Totally Rad""","Reloading this gun now shows a marker on the reload bar, similar to the Cog of Battle mechanic. Reloading at when the bar lines up will decrease the next reload time and increase damage.",Automatic,250,12,B,"Starts at 4, increasing with each successful active reload",,,,,
+Robot's Left Hand,576,"""See You Later""",A gun that rapidly fires blue lasers,Automatic,,,A,,,,,,
+Shell,512,"""Fires Shotguns""",A semi-automatic gun that fires several shotguns with each shot.,Semi-automatic,150,6,B,"2x4 (Bullets), 3x8 (Shotguns)",,,,,
+Starpew,507,"""Reap And Sow""",A charged gun that fires drops of water.,Charged,100,100,A,5,,,,,
+Strafe Gun,542,"""Bleeding Edge Gameplay""",A gun which fires nails,Automatic,400,20,S,"1 (on hit), 8 (in explosion radius)",,,,,
+Vorpal Gun,537,""".50 Critical""",A semi-automatic gun that fires bullets and has a chance to fire a 'critical' shot that deals 100 damage.,Automatic,250,6,B,"5 (normal), 100 (critical)",,,,,
+AC-15,545,"""Armor Class Non-Zero""",An automatic gun that becomes more powerful when you have armor,Automatic,300,40,B,"3.8 (No armor), 15 (With armor)",,,,,
+Big Shotgun,601,"""A Shotgun That's Big""",Shoots 3 huge bullets that each explode,Semi-automatic,70,4,A,"5.5 (impact), 15 (explosion), 5.5 (burst)",,,,,
+Boxing Glove,539,"""Pistol Hondo""",Shoots boxing gloves that have a chance to stun enemies,Charged,350,,C,12 (3 star punch deals 200 damage),,,,,
+Bubble Blaster,599,"""The Suds""",Rapidly shoots bubbles which travel slowly across the room,Automatic,500,,C,12,,,,,
+Combined Rifle,519,"""Halve Lives""",An automatic gun with 2 modes: Rapid fire pulse blasts and a piercing bouncy dark energy ball.,Automatic,500,30 (Pulse mode) 1 (Energy mode),B,,,,,,
+Elimentaler,626,"""Full of Holes""","A gun which 'encheeses' enemies, freezing them in a block of cheese",Semi-automatic,Infinite,,S,,,,,,
+The Exotic,563,"""Pack of Wolves""",Fires homing rockets that erupt into short-range swarms of smaller homing rockets,,,,A,,,,,,
+High Dragunfire,670,"""Pre-Rendered""",Rapid fire gun with burning bullets that ignite enemies,Automatic,,,S,,,,,,
+Life Orb,595,"""Value For Effort""",Fires purple lightning which targets the nearest enemy and deals damage,Beam,600,600,A,,,,,,
+Mimic Gun,734,,Randomly replaces another gun,,900,8,,,,,,,
+Mr. Accretion Jr.,597,"""Music of the Spheres""","Fires planets from our solar system, each one with a different effect on enemies",Semi-automatic,100,20,B,,,,,,
+Rubenstein's Monster,609,"""Unit 00""",Rapidly fires powerful rifle lasers that can ricochet off walls one time,Automatic,900,100,,8,,,,,
+Stone Dome,598,"""Big Head Mode""",An automatic gun that spits out homing bullets rapidly,Automatic,750,750,B,,,,,,
+Turbo-Gun,577,"""Repetitive Strain""",An automatic gun who's damage and bullet size depends on the number of times the reload button is pressed during its reload animation.,Automatic,180,6,C,,,,,,
+Wood Beam,610,"""Speak Softly""","A 'gun' that extends when fired, allowing you to hit enemies with it",It's not even a gun,,,B,,,,,,
+3rd Party Controller,,"""Assuming Direct Control""","Upon hitting an enemy with this gun, enemies will move in the same direction as the player, and shoot towards your crosshair as you shoot. This allows you to make enemies damage other enemies.",Automatic,300,,A,,,,,,
+Chamber Gun,,"""Product of Environment""",This gun based on the current floor.,Semi-automatic,See above,See above,C,,,,,,
+Evolver,,"""Tamagunchi""",This gun has a chance to adapt when killing an enemy. Swapping to another gun and killing an enemy has a chance to devolve this gun. The six adaptations happen in this order:,Semi-automatic,300 / 150,Varies 8 - 300,C,,,,,,
+The Fat Line,,"""Technobabble""","This gun fires bullet in reverse, meaning they start at the end of where your gun is aimed, and travel back towards you.",Semi-automatic,500,100,B,4,,,,,
+Finished Gun,,"""Thanks For Playing""",Replaces the Unfinished Gun once unlocked.,,,,S,,,,,,
+Glass Cannon,,"""Fragile, Fatal""",A charged gun that shoots one high powerful beam.,Charged,25,1,C,150,,,,,
+Gunderfury,,"""Gun of Guncraft""","This gun gains experience with every kill, which persists between different runs, even after death.",Semi-automatic,Between 8 (at lvl 20) and 40 (at lvl 60),Between 200 (at lvl 20) and 600 (at lvl 60),A,,,,,,
+GuNNER,,"""Backpack Not Included""",Taking damage while holding this gun causes it to lose 40 ammo and spawn a blue skull nearby. Picking up the skull heals you.,Semi-automatic,200,12,B,13.5,,,,,
+High Kaliber,,"""Soul Reaver""",Fires piercing shots which cause enemies to have their soul leave their body. If you come in contact with a soul the enemy takes huge damage.,Semi-automatic,666,66,A,16,,,,,
+JK-47,,"""Substitute""",Very similar to the AK-47 except with a much lower rate of fire,Automatic,,,C,5.5,,,,,
+Knight's Gun,,"""Plowshare""",Fires five bullets in an arrow shape,,180,6,A,8 per bullet,,,,,
+Kruller Glaive,,"""Studied the Blade""",Fires projectiles which acts like a boomerang with a homing effect,Charged,,1,B,30,,,,,
+The Predator,,"""High-tech $#!*""",Fires high speed homing lasers.,Semi-automatic,150,8,B,25,,,,,
+Really Special Lute,,"""Purple Prose""",Fires a spread of 7 bullets at a time that will sometimes charm enemies.,,,,C,,,,,,
+Slinger,,"""Farewell to arms""",The Gunslinger's starting weapon.,Semi-automatic,Infinite,7,,5.5 (bullets) 4 (thrown gun),,,,,
+Sunlight Javelin,,"""Brilliant Aura""",Fires fiery javelins.,Semi-automatic,150,150,B,,,,,,
+Teapot,,"""Monocular Monster""",Shoots clouds of steam at enemies,Semi-automatic,250,12,C,,,,,,
+Tetrominator,,"""LINE PIECE!""",Shoots random tetrominos that stick to enemies.,Semi-automatic,301,13,B,Varies,,,,,
+Trank Gun,,"""Non Non Lethal""",A pistol with a chance to stun enemies on hit,Semi-automatic,200,12,C,6.5,0.15,,60,,
+Triple Gun,,"""Bullet the Stampede""",Has 3 different modes depending on how much ammo is left.,Changes,"500 (machine gun, beam) 250 (revolver)","9 (revolver), 32 (machine gun), 500 (beam)",B,,"0.5 (revolver), 0.11 (machine gun)",,,,
+Void Core Cannon,,"""Critical Strike""",Fires four huge homing energy balls that explode on impact with something,Burst,120,4,B,"10 (projectile), 11 (explosion)",,,,,
+Windgunner,,"""The Way of Guns""","Spawns exclusively from the Sprun item, when its trigger condition is met",Automatic,Infinite,Infinite,,,,,,,
